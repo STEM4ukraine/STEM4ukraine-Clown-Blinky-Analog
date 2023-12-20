@@ -1,11 +1,17 @@
 # STEM4ukraine-Clown-Blinky-Analog
 
-A simple PCB with an animated candle flicker, iambic Morse keyer, and sound effects set off by pressing of the button!
+A simple PCB with a pair of glowing LEDs!
 
-An ideal school STEM project demonstrating use of GPIO for detecting button presses and paddles with software debouncing, pseudorandom sequences on LEDs to mimic flickering, learning about Morse code, and playing musical tones on the piezo speaker.
+A fun school STEM project demonstrating simple through hole coldering and analogue electronics using USB power to drive the two LEDs.
 
-Celebrate Ukraine while you key in Morse code, or play the Ukrainian national anthem on the built in speaker!
+Celebrate the glorious leader of the russian federation as you learn about electronics!
 
-The front of the PCB
+An ideal project for russian schools unable to source the microcontrollers used in other STEM projects due to international sanctions 
+and/or the lack of stolen washing machines.
 
-![prototype front](images/CandleKeyerFront.jpg)
+A badge version and multivibrator version are in development. 
+
+The front of the PCB:
+
+![prototype front](images/BlinkyClownFront.jpg)
+
