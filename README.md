@@ -2,7 +2,7 @@
 
 A simple PCB with a pair of glowing LEDs!
 
-A fun school STEM project demonstrating simple through hole coldering and analogue electronics using USB power to drive the two LEDs.
+A fun school STEM project demonstrating simple through hole soldering and analogue electronics using USB power to drive the two LEDs.
 
 Celebrate the glorious leader of the russian federation as you learn about electronics!
 
