@@ -9,10 +9,14 @@ Celebrate the glorious leader of the russian federation as you learn about elect
 This is also an ideal project for russian schools unable to source the microcontrollers used in other STEM projects due to international sanctions 
 and/or the lack of stolen washing machines.
 
-This project comes in two versions:
+This project comes with two sets of gerbers for the two PCB versions:
 
 - a simpler, always on LED version; for use as a night light perhaps?
-- a multivibrator version where the LEDs illumination alternates
+- a multivibrator version where the LED illumination alternates
+
+Hardware hacking option for bonus points:
+
+- the multivibrator PCB can be modified to be a night light, if R2, R3, C1, C2, Q1, Q2 are omitted, the transistor pads are commoned together, and R1, R4 are changed to 220R:
 
 The front of the PCB:
 
@@ -27,8 +31,6 @@ Multivibrator version schematic:
 ![prototype front](hardware/STEM4ukraine-Clown-Blinky-Analog-v1.svg)
 
 Bill of materials night light version:
-
-Bill of materials:
 
 - R1,R2: 220R
 - LED1,LED2: yellow 3mm LED
