@@ -1,0 +1,7 @@
+simpler, constantly on LED version
+
+dimensions 81.90mm * 90.70 mm
+2 layer FR4
+white soldermask
+black silkscreen
+Pb/Sn pads
